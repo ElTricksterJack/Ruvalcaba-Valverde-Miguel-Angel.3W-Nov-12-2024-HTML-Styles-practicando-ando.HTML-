@@ -1,0 +1,9 @@
+body {background-color:rgb(170, 255, 227);}
+h1 {background-color:ghostwhite; color:rgb(0, 0, 0); text-align:center}
+h2 {background-color:black; color:ghostwhite; text-align:center}
+h3 {background-color:black; color:ghostwhite; text-align:center}
+p {color:rgb(112, 34, 255);}
+.imaMe {
+  display: flex; 
+  justify-content: center;
+}
